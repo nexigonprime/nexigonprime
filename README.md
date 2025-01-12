@@ -7,6 +7,7 @@
 
 ### 🌐 Projeto 1: [game status](https://github.com/nexigonprime/game-status)  
 📌 **Descrição**: uma pagina web de gerenciamento de status de servidores de jogos.
+
 🔧 **Tecnologias**: [node.js, js, html, css]
 
 
