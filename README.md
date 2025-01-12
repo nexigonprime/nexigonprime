@@ -5,9 +5,9 @@
 ---
 
 
-### 🌐 Projeto 1: [game status](https://github.com/nexigonprime/projeto-2)  
-📌 **Descrição**: Um projeto que [detalhe o que o projeto faz].  
-🔧 **Tecnologias**: [Adicione aqui]
+### 🌐 Projeto 1: [game status](https://github.com/nexigonprime/game-status)  
+📌 **Descrição**:   
+🔧 **Tecnologias**: [node.js, js, html, css]
 
 
 ### 💡 Projeto 2: [Nome do Projeto 3](https://github.com/nexigonprime/projeto-3)  
@@ -25,10 +25,11 @@
 
 ## 📬 Como me encontrar
 
-- 📧 **E-mail**: [SeuEmail@exemplo.com](mailto:SeuEmail@exemplo.com)  
-- 💬 **Discord**: [SeuUsuario#1234](https://discordapp.com/users/nexigonprime)  
-- 🔗 **LinkedIn**: [Seu Nome no LinkedIn](https://linkedin.com/in/nexigonprime)  
-- 🐦 **Twitter**: [@SeuTwitter](https://twitter.com/SeuTwitter)
+- 📧 **E-mail**: [nexigonprime@gamerdesk.xyz](mailto:nexigonprime@gamerdesk.xyz)  
+- 💬 **Discord**: [perfil](https://discordapp.com/users/nexigonprime)
+- 💬 **Discord**: [servidor](https://discord.gg/YaKzgsu7XT)
+<!-- - 🔗 **LinkedIn**: [Seu Nome no LinkedIn](https://linkedin.com/in/nexigonprime)  
+- 🐦 **Twitter**: [@SeuTwitter](https://twitter.com/SeuTwitter) -->
 
 ---
 
