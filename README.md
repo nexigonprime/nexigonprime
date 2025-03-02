@@ -14,6 +14,13 @@
 📌 **Descrição**: [Detalhe o que o projeto faz].
 🔧 **Tecnologias**: [Adicione aqui] -->
 
+
+### 🌐 Projeto 2: [web instaler linux](https://github.com/nexigonprime/web_instaler_ssh)
+
+📌 **Descrição**: site de gerenciamento de aplicaçoes linux via web.
+
+🔧 **Tecnologias**: [node.js, js, html, css]
+
 ---
 
 ## 🎉 Obrigado por visitar meu perfil!
