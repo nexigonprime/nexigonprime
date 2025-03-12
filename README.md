@@ -40,16 +40,13 @@
 
 ---
 
-## 🌟 Estatísticas do GitHub
+
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nexigonprime&show_icons=true&theme=dark&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexigonprime&show_icons=true&theme=holi)
 
-### 🌍 Linguagens Mais Usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexigonprime&show_icons=true&&theme=holi)](https://github.com/nexigonprime/github-readme-stats)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nexigonprime&layout=compact&theme=dark&hide_border=true)
-
-![Commits no Tema Dark](https://github-readme-streak-stats.herokuapp.com/?user=nexigonprime&theme=dark&hide_border=true)
 
 ---
