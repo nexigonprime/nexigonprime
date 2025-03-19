@@ -4,7 +4,7 @@
 
 ---
 
-### 🌐 Projeto 1: [game status](https://github.com/nexigonprime/game-status)
+### 🌐 Projeto 1: [game status](https://docs.gamerdesk.xyz/gameserver)
 
 📌 **Descrição**: uma pagina web de gerenciamento de status de servidores de jogos.
 
